@@ -19,3 +19,6 @@
 
 ## 사용기술
 OpenCV, Flask
+
+## 발표자료
+#### 구글드라이브 : https://drive.google.com/file/d/11Qs1ZTtsWGxJCvYa6lVRG4JD2XODS7G_/view?usp=sharing
